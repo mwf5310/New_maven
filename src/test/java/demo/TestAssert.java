@@ -1,4 +1,4 @@
-package Test;
+package demo;
 import org.junit.BeforeClass;
 import org.junit.Test;
 

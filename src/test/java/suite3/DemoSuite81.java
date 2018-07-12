@@ -1,6 +1,6 @@
 package suite3;
 
-import Test.TestAssert;
+import demo.TestAssert;
 import demo.Test82;
 import demo.Test83;
 
