@@ -13,11 +13,10 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
 
-		//Test91.class,
-
+		Test91.class,
 	    Test82.class,
 	    Test83.class,
-		Test88.class
+
 })
 public class DemoSuite81 {
 	
