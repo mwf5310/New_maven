@@ -1,5 +1,6 @@
 package suite3;
 
+import Test.TestAssert;
 import demo.Test82;
 import demo.Test83;
 
@@ -16,6 +17,7 @@ import org.junit.runners.Suite;
 		Test91.class,
 	    Test82.class,
 	    Test83.class,
+		TestAssert.class
 
 })
 public class DemoSuite81 {
